@@ -1,5 +1,5 @@
 # 💫 About Me:
- I’m currently learning MERN Stack developments<br>💬 Ask me about HTML 5, CSS 3, Bootsrap5<br><br>📫 How to reach me AsmaKhan020202@gmail.com<br><br>⚡ Fun fact I Think 🤔 Sometimes I am Funny😂
+ I’m currently learning MERN Stack developments<br>💬 Ask me about HTML 5, CSS 3, Bootsrap5 javaScript<br><br>📫 How to reach me AsmaKhan020202@gmail.com<br><br>⚡ Fun fact I Think 🤔 Sometimes I am Funny😂
 
 
 ## 🌐 Socials:
